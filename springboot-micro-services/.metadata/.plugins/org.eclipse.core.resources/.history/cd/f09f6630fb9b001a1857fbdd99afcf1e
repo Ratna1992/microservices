@@ -1,0 +1,5 @@
+package com.ratna.microservices.feignproxies;
+
+public interface CurrencyExchangeServiceProxyUsingZuul {
+
+}

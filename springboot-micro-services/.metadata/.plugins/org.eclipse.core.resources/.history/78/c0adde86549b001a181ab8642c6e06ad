@@ -1,0 +1,6 @@
+package com.ratna.microservices.service;
+
+@Service
+public class CurrencyExchangeService {
+
+}

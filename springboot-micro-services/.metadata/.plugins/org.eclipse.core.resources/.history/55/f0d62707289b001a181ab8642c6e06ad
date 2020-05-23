@@ -1,0 +1,5 @@
+package com.ratna.microservices.bean;
+
+public class LimitConfiguration {
+
+}

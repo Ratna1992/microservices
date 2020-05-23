@@ -1,0 +1,11 @@
+package com.ratna.microservices.bean;
+
+import java.math.BigDecimal;
+
+public class ExchangeValue {
+
+	private String from;
+	private String to;
+	private Long id;
+	private BigDecimal conversionMultiple;
+}

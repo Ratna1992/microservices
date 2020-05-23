@@ -1,0 +1,5 @@
+package com.ratna.microservices.logging;
+
+public class ZuulLoggingFilter {
+
+}

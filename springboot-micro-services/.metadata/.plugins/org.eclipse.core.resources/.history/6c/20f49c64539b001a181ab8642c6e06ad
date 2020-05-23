@@ -1,0 +1,5 @@
+package com.ratna.microservices.repository;
+
+public interface ExchangeValueRepository {
+
+}

@@ -1,0 +1,3 @@
+limits-service.minimum=55
+limits-service.maximum=5555
+management.security.enabled=false
